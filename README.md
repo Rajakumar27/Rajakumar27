@@ -1,5 +1,5 @@
 
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="850" height="350">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="900" height="300">
 <h1 align="center">Hi 👋, I'm Raja Kumar</h1>
 <h3 align="center">I am a Frontend and Mobile Application Developer with a passion for building seamless user experiences. With expertise in modern web and mobile technologies, I strive to create impactful and efficient solutions for diverse needs.</h3>
 
