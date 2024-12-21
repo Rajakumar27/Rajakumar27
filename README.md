@@ -12,7 +12,7 @@
 
 <h2>✨ About Me:</h2>
 <ul style="list-style: none;">
-  <li><strong>📊 Experience:</strong> 8 months as a Ruby on Rails Developer.</li>
+  <li><strong>📊 Experience:</strong> 8 months as a IOnic Developer.</li>
   <li><strong>🎨 Skillset:</strong></li>
   <ul>
     <li>Frontend Development: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS</li>
