@@ -1,5 +1,5 @@
 
- <p align="center"> <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"  width="400" /> </p>
+<img  src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Coding"  />
 <h1 align="center">Hi 👋, I'm Raja Kumar</h1>
 <h3 align="center">I am a Frontend and Mobile Application Developer with a passion for building seamless user experiences. With expertise in modern web and mobile technologies, I strive to create impactful and efficient solutions for diverse needs.</h3>
 
