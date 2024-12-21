@@ -4,7 +4,7 @@
 <h3 align="center">I am a Frontend and Mobile Application Developer with a passion for building seamless user experiences. With expertise in modern web and mobile technologies, I strive to create impactful and efficient solutions for diverse needs.</h3>
 
 <p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajakumar27&label=Profile%20views&color=0e75b6&style=flat" alt="rajakumar27" /> </p>
