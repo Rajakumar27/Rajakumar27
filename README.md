@@ -1,33 +1,40 @@
-## Hi there! I'm Raja Kumar 👋
+<h1 align="center">Hi there! I'm <span style="color: #4CAF50; animation: fadeIn 2s;">Raja Kumar</span> 👋</h1>
 
-![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding">
+</p>
 
-I am a **Frontend and Mobile Application Developer** with a passion for building seamless user experiences. With expertise in modern web and mobile technologies, I strive to create impactful and efficient solutions for diverse needs.
-
----
-
-### ✨ About Me:
-📊 **Experience**: 8 months as a Ruby on Rails Developer.
-
-🎨 **Skillset**:  
-**Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS.  
-**Mobile Development**: Android Studio, Kotlin, Ionic Framework.  
-**Backend Development**: Java, JDBC, Hibernate, Spring, Spring Boot.  
-**Database Management**: Oracle SQL, MySQL.  
-**UI Design Tools**: Figma.  
-
-📚 **Interests**: Building user-friendly web and mobile apps, exploring new tools, and delivering top-notch digital experiences.
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+  I am a <strong>Frontend and Mobile Application Developer</strong> with a passion for building seamless user experiences. With expertise in modern web and mobile technologies, I strive to create impactful and efficient solutions for diverse needs.
+</p>
 
 ---
 
-### 🌍 Connect with Me:
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile-link)  
-📧 [Email](mailto:your-email@example.com)
+<h2>✨ About Me:</h2>
+<ul style="list-style: none;">
+  <li><strong>📊 Experience:</strong> 8 months as a Ruby on Rails Developer.</li>
+  <li><strong>🎨 Skillset:</strong></li>
+  <ul>
+    <li>Frontend Development: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS</li>
+    <li>Mobile Development: Android Studio, Kotlin, Ionic Framework</li>
+    <li>Backend Development: Java, JDBC, Hibernate, Spring, Spring Boot</li>
+    <li>Database Management: Oracle SQL, MySQL</li>
+    <li>UI Design Tools: Figma</li>
+  </ul>
+  <li><strong>📚 Interests:</strong> Building user-friendly web and mobile apps, exploring new tools, and delivering top-notch digital experiences.</li>
+</ul>
 
 ---
 
-### 🚀 My Toolbox:
+<h2>🌍 Connect with Me:</h2>
+<p>
+  🔗 <a href="https://www.linkedin.com/in/your-profile-link">LinkedIn</a><br>
+  📧 <a href="mailto:your-email@example.com">Email</a>
+</p>
 
+---
+
+<h2>🚀 My Toolbox:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -37,45 +44,54 @@ I am a **Frontend and Mobile Application Developer** with a passion for building
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 ---
 
-### 🌟 Quotes I Live By:
-> "Code is like humor. When you have to explain it, it’s bad."
-
-> "First, solve the problem. Then, write the code."
-
----
-
-### 🔖 GitHub Stats:
-
-![Raja Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<h2>🌟 Quotes I Live By:</h2>
+<blockquote>
+  "Code is like humor. When you have to explain it, it’s bad."
+</blockquote>
+<blockquote>
+  "First, solve the problem. Then, write the code."
+</blockquote>
 
 ---
 
-### 🔎 Check Out My Repositories:
-**Web Development**: Innovative and responsive websites.  
-**Mobile Apps**: Sleek and functional applications.
+<h2>🔖 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Raja Kumar's GitHub stats">
+</p>
 
 ---
 
-### ✨ Fun Facts About Me:
-I love collaborating with diverse teams to bring ideas to life.  
-Exploring new frameworks and tools is my favorite part of development.
+<h2>🔎 Check Out My Repositories:</h2>
+<p>
+  <strong>Web Development:</strong> Innovative and responsive websites.<br>
+  <strong>Mobile Apps:</strong> Sleek and functional applications.
+</p>
 
 ---
 
-### 👤 Personal Details:
-**Name**: Raja Kumar  
-**Location**: [Your City, Country]  
-**Languages**: English, [Other Languages You Speak]  
-**Hobbies**: [Your Hobbies]
+<h2>✨ Fun Facts About Me:</h2>
+<p>
+  I love collaborating with diverse teams to bring ideas to life.<br>
+  Exploring new frameworks and tools is my favorite part of development.
+</p>
 
 ---
 
+<h2>👤 Personal Details:</h2>
+<ul style="list-style: none;">
+  <li><strong>Name:</strong> Raja Kumar</li>
+  <li><strong>Location:</strong> [Your City, Country]</li>
+  <li><strong>Languages:</strong> English, [Other Languages You Speak]</li>
+  <li><strong>Hobbies:</strong> [Your Hobbies]</li>
+</ul>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGwHEUCGILzvCGk/giphy.gif" alt="Thank You">
+</p>
